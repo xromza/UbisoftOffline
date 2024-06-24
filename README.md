@@ -1,14 +1,14 @@
 ![Alt text](UbisoftOffline.png)
 
-# Ubisoft Launcher Offline Mode Switcher
+# Переключатель автономного режима Ubisoft Launcher
 
-## Description
-This batch script allows you to toggle the offline mode in the Ubisoft launcher.
+## Описание
+Этот пакетный скрипт позволяет переключать автономный режим в Ubisoft launcher.
 
-## Usage
-1. Open `UbisoftOffline.bat` file.
-2. Select one of two options
-3. Finished!
+## Использование
+1. Откройте файл UbisoftOffline.bat.
+2. Выберите один из двух вариантов
+3. Готово!
 
-## License
-This script is released under the Apache 2.0 license.
+## Лицензия
+Этот скрипт выпущен под лицензией Apache 2.0.
