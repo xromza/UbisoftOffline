@@ -30,7 +30,7 @@ if "%choice%" == "1" (
     set "r1=offline: true"
     set "r2=offline: false"
 )
-
+attrib -R "%f1%"
 (for /f "usebackq delims=" %%i in ("%f1%") do (
     set "line=%%i"
     setlocal enabledelayedexpansion
@@ -43,7 +43,7 @@ if "%choice%" == "1" (
 )) > new_settings.yaml
 
 move /y new_settings.yaml "%f1%"
-
+attrib +R "%f1%"
 if "%choice%" == "1" (
     echo Оффлайн режим включён
 ) else (
