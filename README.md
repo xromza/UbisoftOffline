@@ -1,3 +1,5 @@
+![Alt text](UbisoftOffline.png)
+
 # Ubisoft Launcher Offline Mode Switcher
 
 ## Description
